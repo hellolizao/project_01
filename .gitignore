@@ -1,0 +1,7 @@
+#忽略index.html
+index.html
+index.css
+
+
+#忽略test目录下所有文件
+test/
